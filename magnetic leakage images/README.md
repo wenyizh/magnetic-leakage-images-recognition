@@ -21,5 +21,4 @@
 
 Code base on **[caffe](http://caffe.berkeleyvision.org/ "Caffe")**
 
-Contributors:
-wenyi
+2018.4
