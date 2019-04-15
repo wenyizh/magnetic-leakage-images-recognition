@@ -3,9 +3,6 @@
 
 # clarify of magnetic leakage images based on FCN
 
-![](http://i.imgur.com/PLQqyzn.jpg)
-
-![Map](http://i.imgur.com/1wBU1E5.png)
 
 
 ## To train:
